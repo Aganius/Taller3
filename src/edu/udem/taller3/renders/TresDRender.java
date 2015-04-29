@@ -1,4 +1,4 @@
-package renders;
+package edu.udem.taller3.renders;
 
 /*clase concreta para visualizacion en 3d*/
 public class TresDRender extends DecoradorRender {
@@ -9,7 +9,7 @@ public class TresDRender extends DecoradorRender {
  
     @Override
     public void dibujar(){
-    	figurarender.assemble();
+    	figuraRender.assemble();
         System.out.print(" Pintamos el tablero en 3D.");
     }
 }

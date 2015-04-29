@@ -1,4 +1,4 @@
-package renders;
+package edu.udem.taller3.renders;
 
 /*clase concreta para visualizacion en 2d*/
 public class DosDRender extends DecoradorRender {
@@ -9,7 +9,7 @@ public class DosDRender extends DecoradorRender {
  
     @Override
     public void dibujar(){
-    	figurarender.assemble();
+    	figuraRender.assemble();
         System.out.print(" Pintamos el tablero en 2D.");
     }
 }
