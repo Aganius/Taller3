@@ -7,7 +7,6 @@ public abstract class FiguraRender {
 
 	public void assemble() {
 		// TODO Auto-generated method stub
-		
+
 	}
 }
-
