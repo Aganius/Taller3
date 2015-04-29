@@ -1,5 +1,6 @@
 package renders;
 
+/*clase concreta para visualizacion en 2d*/
 public class DosDRender extends DecoradorRender {
 	 
     public DosDRender(FiguraRender c) {

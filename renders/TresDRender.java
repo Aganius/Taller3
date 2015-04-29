@@ -1,5 +1,6 @@
 package renders;
 
+/*clase concreta para visualizacion en 3d*/
 public class TresDRender extends DecoradorRender {
 	 
     public TresDRender(FiguraRender c) {

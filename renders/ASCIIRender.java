@@ -1,6 +1,6 @@
 package renders;
 
-
+/*clase concreta para visualizacion en ascii*/
 public class ASCIIRender extends DecoradorRender {
 	 
     public ASCIIRender(FiguraRender c) {
