@@ -18,6 +18,6 @@ public class TresDRender extends DecoradorRender {
 	@Override
 	public void dibujar() {
 		// Se pintan los tetrominos en formato 3D.
-		System.out.print(" Pintamos el tablero en 3D.");
+		System.out.println("Pintamos el tablero en 3D.");
 	}
 }

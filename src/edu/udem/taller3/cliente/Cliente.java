@@ -18,7 +18,7 @@ public class Cliente {
 		FiguraRender figura = new ASCIIRender(new BasicoRender());
 		figura.dibujar();
 		
-		System.out.println("\n********************************************");
+		System.out.println("********************************************");
 
 		System.out.println("Probando pintado de figura en modo 3D");
 		FiguraRender figura2 = new TresDRender(new DosDRender(

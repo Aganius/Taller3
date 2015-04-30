@@ -18,6 +18,6 @@ public class DosDRender extends DecoradorRender {
 	@Override
 	public void dibujar() {
 		// Se pintan los tetrominos en formato 2D.
-		System.out.print(" Pintamos el tablero en 2D.");
+		System.out.println("Pintamos el tablero en 2D.");
 	}
 }

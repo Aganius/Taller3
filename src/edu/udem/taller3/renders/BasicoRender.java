@@ -10,7 +10,7 @@ public class BasicoRender extends FiguraRender {
 
 	@Override
 	public void dibujar() {
-		System.out.print("Tetris normal.");
+		System.out.println("Tetris normal.");
 	}
 
 }

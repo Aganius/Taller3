@@ -18,6 +18,6 @@ public class ASCIIRender extends DecoradorRender {
 	@Override
 	public void dibujar() {
 		// Se pintan los tetrominos en formato ASCII.
-		System.out.print(" Pintamos el tablero en ASCII.");
+		System.out.println("Pintamos el tablero en ASCII.");
 	}
 }
